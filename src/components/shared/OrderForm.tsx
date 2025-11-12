@@ -25,9 +25,18 @@ export const OrderForm = ({ orderSubject, t }: { orderSubject: string, t: any })
   });
 
   function onSubmit(values: z.infer<typeof formSchema>) {
-    console.log({ ...values, orderSubject });
-    // Here you would typically handle the form submission, e.g., send to an API
-    alert(`Order for "${orderSubject}" submitted! We will contact you soon.`);
+    const phoneNumber = "6283119226089";
+    
+    const messageTemplate = t("orderModal.whatsappMessage", {
+      subject: orderSubject,
+      name: values.fullName,
+      website: values.websiteName,
+      contact: values.contact,
+      details: values.details || "N/A",
+    });
+
+    const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(messageTemplate)}`;
+    window.open(whatsappUrl, "_blank");
   }
 
   return (

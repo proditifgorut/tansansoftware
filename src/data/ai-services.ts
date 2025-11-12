@@ -65,7 +65,7 @@ export const aiServices: ServiceCategory[] = [
         descriptionKey: 'aiServices.dataMining.algorithms.association.description',
         pricing: [
             { levelKey: 'aiServices.pricingLevels.standard', priceKey: 'aiServices.pricing.premium', featuresKey: 'aiServices.dataMining.algorithms.association.pricing.standard', ctaKey: 'orderModal.submitButton' },
-            { levelKey: 'aiServices.pricingLevels.advanced', priceKey: 'aiServices.pricing.enterprise', featuresKey: 'aiServices.dataMiningalgorithms.association.pricing.advanced', ctaKey: 'orderModal.submitButton' },
+            { levelKey: 'aiServices.pricingLevels.advanced', priceKey: 'aiServices.pricing.enterprise', featuresKey: 'aiServices.dataMining.algorithms.association.pricing.advanced', ctaKey: 'orderModal.submitButton' },
         ],
       },
     ],

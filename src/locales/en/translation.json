@@ -178,7 +178,8 @@
     "contactPlaceholder": "e.g. john@example.com",
     "detailsLabel": "Project Details",
     "detailsPlaceholder": "Tell us more about your project requirements...",
-    "submitButton": "Submit Order"
+    "submitButton": "Submit Order",
+    "whatsappMessage": "Hello, I would like to place an order.\n\n*Subject:* {{subject}}\n*Name:* {{name}}\n*Prospective Website:* {{website}}\n*Contact:* {{contact}}\n*Details:* {{details}}"
   },
   "orderTemplateModal": {
     "title": "Order a Website Like This",

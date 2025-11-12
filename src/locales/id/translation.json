@@ -178,7 +178,8 @@
     "contactPlaceholder": "cth. budi@contoh.com",
     "detailsLabel": "Detail Proyek",
     "detailsPlaceholder": "Beri tahu kami lebih banyak tentang kebutuhan proyek Anda...",
-    "submitButton": "Kirim Pesanan"
+    "submitButton": "Kirim Pesanan",
+    "whatsappMessage": "Halo, saya ingin memesan layanan.\n\n*Subjek:* {{subject}}\n*Nama:* {{name}}\n*Nama Website Prospektif:* {{website}}\n*Kontak:* {{contact}}\n*Detail:* {{details}}"
   },
   "orderTemplateModal": {
     "title": "Pesan Website Seperti Ini",
