@@ -1,0 +1,282 @@
+{
+  "header": {
+    "services": "Layanan",
+    "webDev": "Pengembangan Web",
+    "aiData": "AI & Data",
+    "pricing": "Harga",
+    "portfolio": "Portofolio",
+    "contact": "Kontak",
+    "getStarted": "Mulai"
+  },
+  "hero": {
+    "title1": "Solusi",
+    "title2": "Perangkat Lunak Cerdas",
+    "title3": "untuk",
+    "title4": "Bisnis",
+    "title5": "Modern",
+    "description": "Kami membangun situs web cerdas yang didukung oleh Analisis Data, Machine Learning, dan AI. Ubah bisnis Anda dengan solusi digital yang cerdas.",
+    "exploreServices": "Lihat Paket",
+    "contactUs": "Hubungi Kami"
+  },
+  "aiServicesIntro": {
+    "title": "Layanan Spesialis AI & Data",
+    "description": "Buka kekuatan data Anda dengan layanan ahli kami.",
+    "dataAnalysisTitle": "Analisis Data",
+    "dataAnalysisDesc": "Ubah data mentah menjadi wawasan bisnis yang dapat ditindaklanjuti.",
+    "dataMiningTitle": "Data Mining",
+    "dataMiningDesc": "Temukan pola tersembunyi dan informasi berharga dalam kumpulan data besar.",
+    "dataScienceTitle": "Data Science",
+    "dataScienceDesc": "Solusi menyeluruh dari pengumpulan data hingga pemodelan prediktif.",
+    "machineLearningTitle": "Machine Learning",
+    "machineLearningDesc": "Bangun dan terapkan model khusus untuk mengotomatisasi dan mengoptimalkan proses.",
+    "learnMore": "Pelajari Lebih"
+  },
+  "techStack": {
+    "title": "Teknologi",
+    "titleHighlight": "Kami",
+    "description": "Kami menggunakan teknologi modern untuk membangun aplikasi yang kuat."
+  },
+  "pricing": {
+    "title": "Paket",
+    "titleHighlight": "Harga Kami",
+    "description": "Pilih paket yang sesuai dengan kebutuhan Anda. Semua paket mencakup fitur cerdas untuk memajukan bisnis Anda.",
+    "plans": [
+      {
+        "title": "Dasar",
+        "price": "Mulai dari Rp 3Jt",
+        "period": "",
+        "features": [
+          "Halaman Arahan Berbasis AI",
+          "Analitik Data Dasar",
+          "Integrasi Formulir Kontak",
+          "Desain Responsif Seluler",
+          "Dukungan 30 hari"
+        ],
+        "cta": "Pesan Sekarang"
+      },
+      {
+        "title": "Pro",
+        "price": "Mulai dari Rp 7.5Jt",
+        "period": "",
+        "features": [
+          "Situs Web Multi-halaman",
+          "Dasbor Analitik Lanjutan",
+          "Mesin Rekomendasi",
+          "Integrasi Model ML",
+          "Dukungan Prioritas"
+        ],
+        "cta": "Pesan Sekarang"
+      },
+      {
+        "title": "Enterprise",
+        "price": "Kustom",
+        "period": "hubungi kami",
+        "features": [
+          "Pengembangan Algoritma ML Kustom",
+          "Pemrosesan Data Real-time",
+          "Pengembangan API",
+          "Pengaturan Infrastruktur Cloud",
+          "Dukungan Khusus & SLA"
+        ],
+        "cta": "Hubungi Kami"
+      }
+    ]
+  },
+  "portfolio": {
+    "title": "Karya Terbaru",
+    "titleHighlight": "Kami",
+    "description": "Sekilas tentang solusi yang telah kami berikan.",
+    "viewDetails": "Lihat Detail",
+    "viewAll": "Lihat Semua Karya",
+    "pricingTitle": "Harga untuk Solusi Serupa",
+    "pricingLevels": {
+      "basic": "Implementasi Dasar",
+      "professional": "Solusi Profesional",
+      "enterprise": "Skala Enterprise"
+    },
+    "pricing": {
+      "level1": "Mulai dari Rp 3Jt",
+      "level2": "Mulai dari Rp 9Jt",
+      "level3": "Mulai dari Rp 22.5Jt",
+      "level4": "Harga Kustom"
+    },
+    "projects": {
+      "ecommerceRecommender": {
+        "title": "Rekomendasi E-commerce",
+        "description": "Mesin rekomendasi produk yang dipersonalisasi yang meningkatkan penjualan sebesar 20%.",
+        "longDescription": "Dibuat dengan Python, TensorFlow, dan React, sistem ini menganalisis perilaku pengguna secara real-time untuk menyarankan produk yang relevan, meningkatkan pengalaman pengguna dan mendorong pendapatan. Ini mencakup modul untuk melacak klik, pembelian, dan riwayat penjelajahan untuk membangun profil pengguna yang komprehensif."
+      },
+      "healthcareAnalytics": {
+        "title": "Analitik Prediktif Kesehatan",
+        "description": "Model ML untuk memprediksi tingkat penerimaan kembali pasien di rumah sakit.",
+        "longDescription": "Alat ini membantu staf medis mengidentifikasi pasien berisiko tinggi, memungkinkan perawatan proaktif dan alokasi sumber daya. Ini terintegrasi dengan Rekam Medis Elektronik (RME) yang ada untuk memberikan wawasan yang lancar dan dapat ditindaklanjuti, yang pada akhirnya meningkatkan hasil pasien dan mengurangi biaya."
+      },
+      "analyticsDashboard": {
+        "title": "Dasbor Analitik Real-time",
+        "description": "Dasbor dinamis untuk memvisualisasikan KPI bisnis dan perilaku pengguna.",
+        "longDescription": "Terintegrasi dengan berbagai sumber data seperti Google Analytics, CRM, dan basis data penjualan, ini memberikan wawasan yang dapat ditindaklanjuti kepada para pemangku kepentingan melalui bagan interaktif, laporan terperinci, dan peringatan otomatis untuk deteksi anomali."
+      },
+      "logisticsOptimization": {
+        "title": "Mesin Optimisasi Logistik",
+        "description": "Sistem untuk menghitung rute pengiriman paling efisien, menghemat bahan bakar dan waktu.",
+        "longDescription": "Menggunakan algoritma genetika dan data lalu lintas real-time, mesin ini secara dinamis merencanakan dan menyesuaikan rute pengiriman untuk armada kendaraan. Ini mempertimbangkan batasan seperti jendela waktu pengiriman, kapasitas kendaraan, dan jam kerja pengemudi untuk memaksimalkan efisiensi."
+      },
+      "churnPrediction": {
+        "title": "Prediksi Churn Pelanggan",
+        "description": "Mengidentifikasi pelanggan yang berisiko berhenti berlangganan, memungkinkan upaya retensi proaktif.",
+        "longDescription": "Model ini menganalisis aktivitas pengguna, data langganan, dan interaksi dukungan untuk menghasilkan 'skor churn' bagi setiap pelanggan. Tim pemasaran kemudian dapat menargetkan pelanggan berisiko tinggi dengan kampanye retensi yang disesuaikan."
+      },
+      "fraudDetection": {
+        "title": "Deteksi Penipuan Keuangan",
+        "description": "Sistem real-time untuk mendeteksi dan menandai transaksi penipuan.",
+        "longDescription": "Memanfaatkan jaringan saraf autoencoder, sistem ini mempelajari pola transaksi normal dan menandai penyimpangan secara real-time. Ini menyediakan antarmuka manajemen kasus bagi analis penipuan untuk menyelidiki dan menyelesaikan peringatan secara efisien."
+      },
+      "sentimentAnalysis": {
+        "title": "Platform Analisis Sentimen Merek",
+        "description": "Melacak dan menganalisis opini publik tentang suatu merek di media sosial dan berita.",
+        "longDescription": "Menggunakan Natural Language Processing (NLP), platform ini mengumpulkan penyebutan dari Twitter, Facebook, dan artikel berita, melakukan analisis sentimen untuk menyediakan dasbor persepsi publik dan tren yang muncul secara real-time."
+      },
+      "elearningPlatform": {
+        "title": "Platform E-learning Berbasis AI",
+        "description": "Platform yang mempersonalisasi jalur belajar bagi siswa berdasarkan kinerja mereka.",
+        "longDescription": "Sistem ini menggunakan hasil kuis siswa dan data interaksi untuk merekomendasikan modul berikutnya yang paling relevan, mengidentifikasi kesenjangan pengetahuan, dan memberikan pengalaman belajar adaptif untuk memaksimalkan keterlibatan dan keberhasilan siswa."
+      },
+      "imageRecognition": {
+        "title": "API Pengenalan Gambar",
+        "description": "Model yang dilatih khusus untuk mengidentifikasi objek tertentu dalam gambar untuk kontrol kualitas.",
+        "longDescription": "Kami mengembangkan Convolutional Neural Network (CNN) khusus untuk mengidentifikasi cacat manufaktur pada lini produksi. Model ini diterapkan sebagai REST API ketersediaan tinggi yang memproses ribuan gambar per jam."
+      },
+      "dynamicPricing": {
+        "title": "Model Penetapan Harga Dinamis",
+        "description": "Algoritma yang menyesuaikan harga produk berdasarkan permintaan, persaingan, dan inventaris.",
+        "longDescription": "Untuk klien e-commerce, model ini menggunakan peramalan deret waktu dan scraping harga pesaing untuk merekomendasikan harga optimal, memaksimalkan pendapatan dan mempertahankan keunggulan kompetitif di pasar."
+      }
+    }
+  },
+  "contact": {
+    "title": "Hubungi",
+    "titleHighlight": "Kami",
+    "description": "Punya proyek dalam pikiran? Mari kita bicarakan.",
+    "cardTitle": "Hubungi Kami",
+    "nameLabel": "Nama",
+    "namePlaceholder": "Nama Anda",
+    "emailLabel": "Email",
+    "emailPlaceholder": "Email Anda",
+    "messageLabel": "Pesan",
+    "messagePlaceholder": "Pesan Anda",
+    "sendMessage": "Kirim Pesan",
+    "phone": "Atau hubungi kami langsung di:"
+  },
+  "orderModal": {
+    "title": "Pesan: {subject}",
+    "description": "Silakan isi formulir di bawah ini untuk memulai proyek Anda. Kami akan segera menghubungi Anda.",
+    "nameLabel": "Nama Lengkap",
+    "namePlaceholder": "cth. Budi Santoso",
+    "websiteNameLabel": "Nama Web yang Akan Dibuat",
+    "websiteNamePlaceholder": "cth. Proyek Hebat Saya",
+    "contactLabel": "Kontak (Email atau Telepon)",
+    "contactPlaceholder": "cth. budi@contoh.com",
+    "detailsLabel": "Detail Proyek",
+    "detailsPlaceholder": "Beri tahu kami lebih banyak tentang kebutuhan proyek Anda...",
+    "submitButton": "Kirim Pesanan"
+  },
+  "orderTemplateModal": {
+    "title": "Pesan Website Seperti Ini",
+    "description": "Tertarik dengan desain ini? Isi formulir untuk memulai."
+  },
+  "footer": {
+    "rights": "Hak cipta dilindungi."
+  },
+  "aiServices": {
+    "pricingLevels": {
+      "standard": "Standar",
+      "advanced": "Lanjutan",
+      "premium": "Premium",
+      "enterprise": "Enterprise"
+    },
+    "pricing": {
+      "standard": "Mulai dari Rp 3Jt",
+      "advanced": "Mulai dari Rp 9Jt",
+      "premium": "Mulai dari Rp 15Jt",
+      "enterprise": "Harga Kustom"
+    },
+    "dataAnalysis": {
+      "title": "Layanan Analisis Data",
+      "description": "Mengubah data mentah menjadi wawasan yang bermakna dan dapat ditindaklanjuti untuk mendorong keputusan bisnis. Kami membantu Anda memahami 'apa' dan 'mengapa' di balik data Anda.",
+      "algorithms": {
+        "descriptive": {
+          "name": "Statistik Deskriptif & Pelaporan",
+          "description": "Analisis fundamental untuk merangkum fitur utama kumpulan data Anda. Kami menghasilkan metrik kunci dan membuat laporan otomatis.",
+          "pricing": {
+            "standard": ["Pembersihan & Persiapan Data", "Metrik Kunci (Mean, Median, Modus)", "Visualisasi Dasar (Batang, Garis)", "Laporan PDF Sekali Kirim"],
+            "advanced": ["Fitur Standar+", "Dasbor Interaktif (1 Halaman)", "Segmentasi Data", "Pelaporan Otomatis Bulanan"]
+          }
+        },
+        "eda": {
+          "name": "Analisis Data Eksplorasi (EDA)",
+          "description": "Lebih dari statistik deskriptif untuk menemukan pola, melihat anomali, dan menguji hipotesis dengan teknik visualisasi canggih.",
+          "pricing": {
+            "standard": ["Termasuk Statistik Deskriptif", "Analisis Korelasi", "Plotting Distribusi", "Deteksi Outlier", "Dasbor Interaktif (3 Halaman)"],
+            "advanced": ["Fitur Standar+", "Reduksi Dimensionalitas (PCA)", "Pengujian Hipotesis", "Laporan Analisis Lengkap & Presentasi"]
+          }
+        }
+      }
+    },
+    "dataMining": {
+      "title": "Layanan Data Mining",
+      "description": "Menyaring kumpulan data besar untuk mengidentifikasi pola dan hubungan yang sebelumnya tidak diketahui. Kami mengungkap informasi berharga yang dapat digunakan bisnis Anda.",
+      "algorithms": {
+        "clustering": {
+          "name": "Clustering (cth., K-Means)",
+          "description": "Kelompokkan pelanggan, produk, atau titik data Anda ke dalam segmen yang berbeda berdasarkan kesamaan mereka untuk memungkinkan strategi yang ditargetkan.",
+          "pricing": {
+            "standard": ["Hingga 5 fitur data", "Analisis jumlah cluster optimal (Metode Elbow)", "Pemrofilan segmen", "Visualisasi cluster"],
+            "advanced": ["Fitur tidak terbatas", "Beberapa algoritma (K-Means, DBSCAN)", "Laporan persona segmen mendalam", "API untuk prediksi segmen"]
+          }
+        },
+        "association": {
+          "name": "Association Rule Mining (cth., Apriori)",
+          "description": "Temukan hubungan 'jika-maka' dalam data Anda, yang dikenal sebagai 'Analisis Keranjang Pasar', untuk mengoptimalkan penempatan produk, promosi, dan rekomendasi.",
+          "pricing": {
+            "standard": ["Analisis hingga 1 juta transaksi", "Identifikasi aturan kunci (support, confidence)", "Laporan rekomendasi yang dapat ditindaklanjuti"],
+            "advanced": ["Pemrosesan dataset skala besar", "Dasbor pemantauan aturan real-time", "Integrasi dengan mesin rekomendasi"]
+          }
+        }
+      }
+    },
+    "dataScience": {
+      "title": "Layanan Data Science",
+      "description": "Proyek komprehensif dan menyeluruh yang memanfaatkan metode, proses, dan algoritma ilmiah untuk mengekstrak pengetahuan dan wawasan dari data terstruktur dan tidak terstruktur.",
+      "algorithms": {
+        "predictive": {
+          "name": "Pemodelan Prediktif End-to-End",
+          "description": "Proyek siklus penuh: dari mendefinisikan masalah bisnis dan mengumpulkan data, hingga membangun model prediktif dan menerapkannya untuk penggunaan operasional.",
+          "pricing": {
+            "standard": ["Perumusan Masalah", "Pengumpulan & Pembersihan Data", "Pelatihan Model (1 Algoritma)", "Laporan Kinerja", "Pengiriman file model"],
+            "advanced": ["Fitur Standar+", "Rekayasa Fitur", "Perbandingan Beberapa Algoritma", "Penerapan Model sebagai API", "Pemantauan Pasca-penerapan"]
+          }
+        }
+      }
+    },
+    "machineLearning": {
+      "title": "Layanan Machine Learning",
+      "description": "Membangun dan menerapkan model cerdas yang belajar dari data untuk membuat prediksi, mengklasifikasikan informasi, dan mengotomatiskan tugas-tugas kompleks.",
+      "algorithms": {
+        "regression": {
+          "name": "Model Regresi",
+          "description": "Memprediksi nilai berkelanjutan, seperti prakiraan penjualan, harga rumah, atau nilai seumur hidup pelanggan, berdasarkan data historis.",
+          "pricing": {
+            "standard": ["Model Regresi Linier/Logistik", "Evaluasi kinerja model", "Analisis pentingnya fitur", "Prediksi pada data baru (batch)"]
+          }
+        },
+        "neural": {
+          "name": "Jaringan Saraf Tiruan Kustom",
+          "description": "Untuk masalah kompleks seperti pengenalan gambar atau pemrosesan bahasa alami, kami merancang dan melatih model deep learning kustom yang disesuaikan dengan kebutuhan spesifik Anda.",
+          "pricing": {
+            "standard": ["Desain arsitektur model", "Pelatihan pada dataset Anda", "Penyesuaian kinerja", "Endpoint API yang diterapkan untuk inferensi"]
+          }
+        }
+      }
+    }
+  }
+}

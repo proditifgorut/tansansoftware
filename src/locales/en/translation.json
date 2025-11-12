@@ -1,0 +1,282 @@
+{
+  "header": {
+    "services": "Services",
+    "webDev": "Web Development",
+    "aiData": "AI & Data",
+    "pricing": "Pricing",
+    "portfolio": "Portfolio",
+    "contact": "Contact",
+    "getStarted": "Get Started"
+  },
+  "hero": {
+    "title1": "Intelligent",
+    "title2": "Software Solutions",
+    "title3": "for",
+    "title4": "Modern",
+    "title5": "Businesses",
+    "description": "We build smart websites powered by Data Analysis, Machine Learning, and AI. Transform your business with intelligent digital solutions.",
+    "exploreServices": "Explore Plans",
+    "contactUs": "Contact Us"
+  },
+  "aiServicesIntro": {
+    "title": "Specialized AI & Data Services",
+    "description": "Unlock the power of your data with our expert services.",
+    "dataAnalysisTitle": "Data Analysis",
+    "dataAnalysisDesc": "Translate raw data into actionable business insights.",
+    "dataMiningTitle": "Data Mining",
+    "dataMiningDesc": "Discover hidden patterns and valuable information in large datasets.",
+    "dataScienceTitle": "Data Science",
+    "dataScienceDesc": "End-to-end solutions from data collection to predictive modeling.",
+    "machineLearningTitle": "Machine Learning",
+    "machineLearningDesc": "Build and deploy custom models to automate and optimize processes.",
+    "learnMore": "Learn More"
+  },
+  "techStack": {
+    "title": "Our",
+    "titleHighlight": "Tech Stack",
+    "description": "We use modern technologies to build powerful applications."
+  },
+  "pricing": {
+    "title": "Our",
+    "titleHighlight": "Pricing Plans",
+    "description": "Choose a plan that fits your needs. All plans include intelligent features to elevate your business.",
+    "plans": [
+      {
+        "title": "Basic",
+        "price": "Starts at $200",
+        "period": "",
+        "features": [
+          "AI-Powered Landing Page",
+          "Basic Data Analytics",
+          "Contact Form Integration",
+          "Mobile Responsive Design",
+          "30-day Support"
+        ],
+        "cta": "Order Now"
+      },
+      {
+        "title": "Pro",
+        "price": "Starts at $500",
+        "period": "",
+        "features": [
+          "Multi-page Website",
+          "Advanced Analytics Dashboard",
+          "Recommendation Engine",
+          "ML Model Integration",
+          "Priority Support"
+        ],
+        "cta": "Order Now"
+      },
+      {
+        "title": "Enterprise",
+        "price": "Custom",
+        "period": "contact us",
+        "features": [
+          "Custom ML Algorithm Dev",
+          "Real-time Data Processing",
+          "API Development",
+          "Cloud Infrastructure Setup",
+          "Dedicated Support & SLA"
+        ],
+        "cta": "Contact Us"
+      }
+    ]
+  },
+  "portfolio": {
+    "title": "Our Recent",
+    "titleHighlight": "Work",
+    "description": "A glimpse into the solutions we've delivered.",
+    "viewDetails": "View Details",
+    "viewAll": "View All Work",
+    "pricingTitle": "Pricing for a Similar Solution",
+    "pricingLevels": {
+      "basic": "Basic Implementation",
+      "professional": "Professional Solution",
+      "enterprise": "Enterprise Scale"
+    },
+    "pricing": {
+      "level1": "Starts at $200",
+      "level2": "Starts at $600",
+      "level3": "Starts at $1,500",
+      "level4": "Custom Pricing"
+    },
+    "projects": {
+      "ecommerceRecommender": {
+        "title": "E-commerce Recommender",
+        "description": "A personalized product recommendation engine that boosted sales by 20%.",
+        "longDescription": "Built with Python, TensorFlow, and React, this system analyzes user behavior in real-time to suggest relevant products, enhancing user experience and driving revenue. It includes modules for tracking clicks, purchases, and browsing history to build a comprehensive user profile."
+      },
+      "healthcareAnalytics": {
+        "title": "Healthcare Predictive Analytics",
+        "description": "An ML model to predict patient readmission rates for hospitals.",
+        "longDescription": "This tool helps medical staff identify high-risk patients, allowing for proactive care and resource allocation. It integrates with existing Electronic Health Records (EHR) to provide seamless, actionable insights, ultimately improving patient outcomes and reducing costs."
+      },
+      "analyticsDashboard": {
+        "title": "Real-time Analytics Dashboard",
+        "description": "A dynamic dashboard for visualizing business KPIs and user behavior.",
+        "longDescription": "Integrated with various data sources like Google Analytics, CRM, and sales databases, it provides stakeholders with actionable insights through interactive charts, drill-down reports, and automated alerting for anomaly detection."
+      },
+      "logisticsOptimization": {
+        "title": "Logistics Optimization Engine",
+        "description": "A system to calculate the most efficient delivery routes, saving fuel and time.",
+        "longDescription": "Using genetic algorithms and real-time traffic data, this engine dynamically plans and adjusts delivery routes for a fleet of vehicles. It considers constraints like delivery windows, vehicle capacity, and driver work hours to maximize efficiency."
+      },
+      "churnPrediction": {
+        "title": "Customer Churn Prediction",
+        "description": "Identifies customers at risk of leaving, allowing for proactive retention efforts.",
+        "longDescription": "This model analyzes user activity, subscription data, and support interactions to generate a 'churn score' for each customer. The marketing team can then target high-risk customers with tailored retention campaigns."
+      },
+      "fraudDetection": {
+        "title": "Financial Fraud Detection",
+        "description": "A real-time system to detect and flag fraudulent transactions.",
+        "longDescription": "Leveraging an autoencoder neural network, this system learns normal transaction patterns and flags deviations in real-time. It provides a case management interface for fraud analysts to investigate and resolve alerts efficiently."
+      },
+      "sentimentAnalysis": {
+        "title": "Brand Sentiment Analysis Platform",
+        "description": "Tracks and analyzes public opinion about a brand across social media and news.",
+        "longDescription": "Using Natural Language Processing (NLP), this platform aggregates mentions from Twitter, Facebook, and news articles, performing sentiment analysis to provide a real-time dashboard of public perception and emerging trends."
+      },
+      "elearningPlatform": {
+        "title": "AI-Powered E-learning Platform",
+        "description": "A platform that personalizes learning paths for students based on their performance.",
+        "longDescription": "This system uses student quiz results and interaction data to recommend the most relevant next modules, identify knowledge gaps, and provide adaptive learning experiences to maximize student engagement and success."
+      },
+      "imageRecognition": {
+        "title": "Image Recognition API",
+        "description": "A custom-trained model to identify specific objects in images for quality control.",
+        "longDescription": "We developed a custom Convolutional Neural Network (CNN) to identify manufacturing defects on a production line. The model is deployed as a high-availability REST API that processes thousands of images per hour."
+      },
+      "dynamicPricing": {
+        "title": "Dynamic Pricing Model",
+        "description": "An algorithm that adjusts product prices based on demand, competition, and inventory.",
+        "longDescription": "For an e-commerce client, this model uses time-series forecasting and competitor price scraping to recommend optimal pricing, maximizing revenue and maintaining a competitive edge in the market."
+      }
+    }
+  },
+  "contact": {
+    "title": "Get in",
+    "titleHighlight": "Touch",
+    "description": "Have a project in mind? Let's talk about it.",
+    "cardTitle": "Contact Us",
+    "nameLabel": "Name",
+    "namePlaceholder": "Your Name",
+    "emailLabel": "Email",
+    "emailPlaceholder": "Your Email",
+    "messageLabel": "Message",
+    "messagePlaceholder": "Your Message",
+    "sendMessage": "Send Message",
+    "phone": "Or call us directly at:"
+  },
+  "orderModal": {
+    "title": "Order: {subject}",
+    "description": "Please fill out the form below to start your project. We'll get back to you shortly.",
+    "nameLabel": "Full Name",
+    "namePlaceholder": "e.g. John Doe",
+    "websiteNameLabel": "Prospective Website Name",
+    "websiteNamePlaceholder": "e.g. My Awesome Project",
+    "contactLabel": "Contact (Email or Phone)",
+    "contactPlaceholder": "e.g. john@example.com",
+    "detailsLabel": "Project Details",
+    "detailsPlaceholder": "Tell us more about your project requirements...",
+    "submitButton": "Submit Order"
+  },
+  "orderTemplateModal": {
+    "title": "Order a Website Like This",
+    "description": "Interested in this design? Fill out the form to get started."
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  },
+  "aiServices": {
+    "pricingLevels": {
+      "standard": "Standard",
+      "advanced": "Advanced",
+      "premium": "Premium",
+      "enterprise": "Enterprise"
+    },
+    "pricing": {
+      "standard": "Starts at $200",
+      "advanced": "Starts at $600",
+      "premium": "Starts at $1,000",
+      "enterprise": "Custom Pricing"
+    },
+    "dataAnalysis": {
+      "title": "Data Analysis Services",
+      "description": "Transforming raw data into meaningful and actionable insights to drive business decisions. We help you understand the 'what' and 'why' behind your data.",
+      "algorithms": {
+        "descriptive": {
+          "name": "Descriptive Statistics & Reporting",
+          "description": "Fundamental analysis to summarize your dataset's main features. We generate key metrics and create automated reports.",
+          "pricing": {
+            "standard": ["Data Cleaning & Prep", "Key Metrics (Mean, Median, Mode)", "Basic Visualizations (Bar, Line)", "One-time PDF Report"],
+            "advanced": ["Standard Features+", "Interactive Dashboard (1 Page)", "Data Segmentation", "Monthly Automated Reporting"]
+          }
+        },
+        "eda": {
+          "name": "Exploratory Data Analysis (EDA)",
+          "description": "Go deeper than descriptive stats to find patterns, spot anomalies, and test hypotheses with advanced visualization techniques.",
+          "pricing": {
+            "standard": ["Descriptive Stats Included", "Correlation Analysis", "Distribution Plotting", "Outlier Detection", "Interactive Dashboard (3 Pages)"],
+            "advanced": ["Standard Features+", "Dimensionality Reduction (PCA)", "Hypothesis Testing", "Full Analysis Report & Presentation"]
+          }
+        }
+      }
+    },
+    "dataMining": {
+      "title": "Data Mining Services",
+      "description": "Sift through large datasets to identify previously unknown patterns and relationships. We uncover valuable information your business can use.",
+      "algorithms": {
+        "clustering": {
+          "name": "Clustering (e.g., K-Means)",
+          "description": "Group your customers, products, or data points into distinct segments based on their similarities to enable targeted strategies.",
+          "pricing": {
+            "standard": ["Up to 5 data features", "Optimal cluster count analysis (Elbow method)", "Segment profiling", "Visualization of clusters"],
+            "advanced": ["Unlimited features", "Multiple algorithms (K-Means, DBSCAN)", "In-depth segment persona report", "API for segment prediction"]
+          }
+        },
+        "association": {
+          "name": "Association Rule Mining (e.g., Apriori)",
+          "description": "Discover 'if-then' relationships in your data, famously known as 'Market Basket Analysis', to optimize product placement, promotions, and recommendations.",
+          "pricing": {
+            "standard": ["Analysis on up to 1M transactions", "Key rules identification (support, confidence)", "Actionable recommendations report"],
+            "advanced": ["Large-scale dataset processing", "Real-time rule monitoring dashboard", "Integration with recommendation engine"]
+          }
+        }
+      }
+    },
+    "dataScience": {
+      "title": "Data Science Services",
+      "description": "Comprehensive, end-to-end projects that leverage scientific methods, processes, and algorithms to extract knowledge and insights from structured and unstructured data.",
+      "algorithms": {
+        "predictive": {
+          "name": "End-to-End Predictive Modeling",
+          "description": "A full-cycle project: from defining the business problem and collecting data, to building a predictive model and deploying it for operational use.",
+          "pricing": {
+            "standard": ["Problem Formulation", "Data Collection & Cleaning", "Model Training (1 Algorithm)", "Performance Report", "Model file delivery"],
+            "advanced": ["Standard Features+", "Feature Engineering", "Multiple Algorithm Comparison", "Model Deployment as API", "Post-deployment Monitoring"]
+          }
+        }
+      }
+    },
+    "machineLearning": {
+      "title": "Machine Learning Services",
+      "description": "Build and deploy intelligent models that learn from data to make predictions, classify information, and automate complex tasks.",
+      "algorithms": {
+        "regression": {
+          "name": "Regression Models",
+          "description": "Predict continuous values, such as sales forecasts, housing prices, or customer lifetime value, based on historical data.",
+          "pricing": {
+            "standard": ["Linear/Logistic Regression Model", "Model performance evaluation", "Feature importance analysis", "Prediction on new data (batch)"]
+          }
+        },
+        "neural": {
+          "name": "Custom Neural Networks",
+          "description": "For complex problems like image recognition or natural language processing, we design and train custom deep learning models tailored to your specific needs.",
+          "pricing": {
+            "standard": ["Model architecture design", "Training on your dataset", "Performance tuning", "Deployed API endpoint for inference"]
+          }
+        }
+      }
+    }
+  }
+}
